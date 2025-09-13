@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kratika Singh - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>Kratika Singh</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#achievements">Achievements</a></li>
+        <li><a href="#certifications">Certifications</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Goal-oriented Computer Science and Engineering student specializing in Data Science at PSIT, Kanpur (Expected 2027). Passionate about software development, problem-solving, and building impactful solutions.</p>
+  </section>
+
+  <section id="education">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Pranveer Singh Institute of Technology, Kanpur</strong><br>B.Tech in Computer Science & Engineering (Data Science), Expected 2027<br>CGPA: 8.55/10</li>
+      <li><strong>Janpriya Shiksha Niketan Inter College, Kanpur</strong><br>Class XII, 2023 | 80%</li>
+    </ul>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <p><strong>Technical:</strong> C, Python, Java, JavaScript, HTML, CSS, MySQL</p>
+    <p><strong>Tools:</strong> Git/GitHub, VS Code, Jupyter Notebook, IDLE</p>
+    <p><strong>Soft Skills:</strong> Leadership, Team Management, Problem-Solving, Communication</p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Remote Calculator:</strong> Web-based calculator using HTML, CSS, and JavaScript for basic arithmetic operations.</li>
+      <li><strong>Raksha Signal:</strong> Emergency alert app that sends signals to hospitals, police, and family members in case of accidents.</li>
+      <li><strong>Portfolio Website:</strong> Personal website to showcase projects and achievements using HTML, CSS, JavaScript.</li>
+    </ul>
+  </section>
+
+  <section id="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>4-Star Problem Solver on HackerRank</li>
+      <li>Solved 200+ problems on LeetCode, HackerRank, GFG, Infosys Springboard</li>
+      <li>Shortlisted for Flipkart GRiD 7.0 (2025)</li>
+    </ul>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Python (Basic) — HackerRank</li>
+      <li>Fundamentals of Python Programming — Infosys Springboard</li>
+      <li>30 Days Masterclass in Artificial Intelligence — Novitech</li>
+      <li>Master Data Management for Beginners — TCS iON</li>
+      <li>Adobe Certification Program – Round 1 (Participation, 2025)</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:2k23.csds2311468@gmail.com">2k23.csds2311468@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/kratika-singh" target="_blank">linkedin.com/in/kratika-singh</a></p>
+    <p>GitHub: <a href="https://github.com/kratika-singh" target="_blank">github.com/kratika-singh</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Kratika Singh. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
