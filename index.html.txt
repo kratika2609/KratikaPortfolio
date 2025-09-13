@@ -84,7 +84,7 @@
   <section id="contact">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:2k23.csds2311468@gmail.com">2k23.csds2311468@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/kratika-singh" target="_blank">linkedin.com/in/kratika-singh</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/kratika-singh-37a6692a1" target="_blank">linkedin.com/in/kratika-singh</a></p>
     <p>GitHub: <a href="https://github.com/kratika-singh" target="_blank">github.com/kratika-singh</a></p>
   </section>
 
@@ -93,3 +93,4 @@
   </footer>
 </body>
 </html>
+
